@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/IDS706_DataEngineering_BarbaraFlores_Miniproject12/mlruns/0/01dabe0c8c934b1b9e611016c27ba5a0/artifacts
+end_time: 1700453166633
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 01dabe0c8c934b1b9e611016c27ba5a0
+run_name: incongruous-donkey-9
+run_uuid: 01dabe0c8c934b1b9e611016c27ba5a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700453166210
+status: 3
+tags: []
+user_id: codespace

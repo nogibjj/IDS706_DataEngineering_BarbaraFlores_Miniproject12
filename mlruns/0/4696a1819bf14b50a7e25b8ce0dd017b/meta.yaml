@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/IDS706_DataEngineering_BarbaraFlores_Miniproject12/mlruns/0/4696a1819bf14b50a7e25b8ce0dd017b/artifacts
+end_time: 1700453262992
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4696a1819bf14b50a7e25b8ce0dd017b
+run_name: clumsy-colt-770
+run_uuid: 4696a1819bf14b50a7e25b8ce0dd017b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700453262552
+status: 3
+tags: []
+user_id: codespace
