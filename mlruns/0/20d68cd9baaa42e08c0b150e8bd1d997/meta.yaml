@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/IDS706_DataEngineering_BarbaraFlores_Miniproject12/mlruns/0/20d68cd9baaa42e08c0b150e8bd1d997/artifacts
+end_time: 1700452799121
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 20d68cd9baaa42e08c0b150e8bd1d997
+run_name: stately-fawn-611
+run_uuid: 20d68cd9baaa42e08c0b150e8bd1d997
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700452799110
+status: 3
+tags: []
+user_id: codespace
