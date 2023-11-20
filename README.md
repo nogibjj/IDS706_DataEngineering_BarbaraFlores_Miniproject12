@@ -14,3 +14,6 @@ IDS706_DataEngineering_BarbaraFlores_Miniproject12
 [2023-11-20 04:08:50 +0000] [17245] [INFO] Booting worker with pid: 17245
 [2023-11-20 04:08:50 +0000] [17246] [INFO] Booting worker with pid: 17246
 ```
+
+
+![01.png](https://raw.githubusercontent.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject12/main/images/01.png)
